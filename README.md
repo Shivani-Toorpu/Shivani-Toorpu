@@ -50,7 +50,7 @@ High-throughput URL shortening service with caching and analytics.
 - Structured logging
 - Real-time `/stats` endpoint
 
-🔗 [View Repository](YOUR_REPO_LINK)
+🔗 [View Repository](https://github.com/Shivani-Toorpu/Quickroute)
 
 ---
 
@@ -65,7 +65,7 @@ Interactive sorting algorithm visualization and benchmarking tool.
 - Execution-time benchmarking
 - Step-by-step visualization
 
-🔗 [View Repository](YOUR_REPO_LINK)
+🔗 [View Repository](https://github.com/Shivani-Toorpu/Sorting-Algo-Analyzer-CPP)
 
 ---
 
@@ -81,7 +81,7 @@ Full-stack healthcare appointment platform.
 - Appointment availability
 - Specialty-based booking
 
-🔗 [View Repository](YOUR_REPO_LINK)
+🔗 [View Repository](https://github.com/Shivani-Toorpu/Healthcare-Booking-System)
 
 ---
 
