@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivani-Toorpu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toorpushivani@gmail.com)
 
-### Software Development Engineer (SDE) | Backend Engineer | Full-Stack Developer | ASP.NET Core | Express.js | Data Structures and Algorithms | System Design
+### Software Development Engineer (SDE) | Backend Engineer | Full-Stack Developer | ASP.NET Core | Node.js/Express.js | Data Structures and Algorithms | System Design
 
 ## 🙋🏻‍♀️ About Me
 I'm a Computer Science & Engineering (AI & ML) graduate (May 2026) from Vardhaman College of Engineering. I enjoy building reliable, scalable, and fault-tolerant applications. I am an avid problem solver, and am passionate about learning how software works under the hood. I worked as a MERN Stack intern for 3 months at Innomatics Research Labs, where I gained hands-on experience in building, versioning, and deploying applications. Outside my technical journey, I enjoy playing chess, journaling and diary writing — activities which keep me positive and organized.
