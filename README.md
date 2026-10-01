@@ -111,7 +111,7 @@ Full-stack healthcare appointment management platform
 
 **![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Llama 4](https://img.shields.io/badge/Llama_4-%230466C8.svg?style=for-the-badge&logo=meta&logoColor=white)
-![Tavily API](https://img.shields.io/badge/Tavily_API-%23000000.svg?style=for-the-badge)
+[![Tavily](https://img.shields.io/badge/Tavily-Search_API-000000?style=flat-square)](https://tavily.com)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)**
 
 Multilingual LLM-powered system to verify news headlines
