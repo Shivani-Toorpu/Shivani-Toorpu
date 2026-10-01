@@ -128,9 +128,9 @@ Multilingual LLM-powered system to verify news headlines
 
 ## 🧠 Problem Solving
 
-- ![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) — 400+ problems | 1700+ contest rating
-- ![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) — 4★ Problem Solving
-- ![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) — 150+ problems solved
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" /> LeetCode: 400+ problems | 1700+ contest rating
+- <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="18" /> HackerRank: 4★ Problem Solving
+- <img src="https://cdn.simpleicons.org/codechef/5B4638" width="18" /> CodeChef: 150+ problems solved
 
 ---
 
