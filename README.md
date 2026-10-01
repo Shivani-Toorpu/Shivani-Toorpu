@@ -71,7 +71,7 @@ High-throughput URL shortening service with caching and analytics
 ---
 ### 📊 Sorting Algorithm Analyzer
 
-**![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) · ![STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) . ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
+**![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) · ![C++ STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) . ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
 Interactive sorting algorithm visualization and benchmarking tool
 
@@ -102,7 +102,7 @@ Full-stack healthcare appointment management platform
 
 ### 🏥 FakeBuster
 
-**![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) · ![Llama 4](https://img.shields.io/badge/Llama_4-%230466C8.svg?style=for-the-badge&logo=meta&logoColor=white) . ![Tavily API](https://img.shields.io/badge/Tavily_API-%23000000.svg?style=for-the-badge) . ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+**![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) · ![Llama 4](https://img.shields.io/badge/Llama_4-%230466C8.svg?style=for-the-badge&logo=meta&logoColor=white) . ![Tavily API](https://img.shields.io/badge/Tavily_API-%23000000.svg?style=for-the-badge) . ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)**
 
 Multilingual LLM-powered system to verify news headlines
 
