@@ -56,7 +56,7 @@ I'm a Computer Science & Engineering (AI & ML) graduate (May 2026) from Vardhama
 ---
 ### 🔗 QuickRoute — URL Shortener
 
-**C# · ASP.NET Core · PostgreSQL**
+**![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) · ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) · ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)**
 
 High-throughput URL shortening service with caching and analytics
 
@@ -71,7 +71,7 @@ High-throughput URL shortening service with caching and analytics
 ---
 ### 📊 Sorting Algorithm Analyzer
 
-**C++ · STL · React**
+**![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) · ![STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) . ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
 Interactive sorting algorithm visualization and benchmarking tool
 
@@ -86,7 +86,7 @@ Interactive sorting algorithm visualization and benchmarking tool
 ---
 ### 🏥 Healthcare Booking System
 
-**React · Node.js · Express · MongoDB**
+**![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) · ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) · ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) · ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)**
 
 Full-stack healthcare appointment management platform
 
@@ -102,7 +102,7 @@ Full-stack healthcare appointment management platform
 
 ### 🏥 FakeBuster
 
-**Python · Llama-4 · Tavily API · Selenium**
+**![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) · ![Llama 4](https://img.shields.io/badge/Llama_4-%230466C8.svg?style=for-the-badge&logo=meta&logoColor=white) . ![Tavily API](https://img.shields.io/badge/Tavily_API-%23000000.svg?style=for-the-badge) . ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 Multilingual LLM-powered system to verify news headlines
 
