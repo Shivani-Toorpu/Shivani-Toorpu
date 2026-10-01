@@ -74,7 +74,6 @@ High-throughput URL shortening service with caching and analytics
 ### 📊 Sorting Algorithm Analyzer
 
 **![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C++ STL](https://img.shields.io/badge/C++_STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
 
 Interactive sorting algorithm visualization and benchmarking tool
